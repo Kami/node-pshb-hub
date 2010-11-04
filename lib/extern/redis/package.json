@@ -1,0 +1,21 @@
+{   "name" : "redis",
+    "version" : "0.3.6",
+    "description" : "Redis client library",
+    "author": "Matt Ranney <mjr@ranney.com>",
+    "contributors": [
+        "Rick Olson",
+        "Tim-Smart",
+        "TJ Holowaychuk",
+        "Orion Henry",
+        "Hank Sims",
+        "Aivo Paas"
+    ],
+    "main": "./index.js",
+    "scripts": {
+        "test": "node ./test.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/mranney/node_redis.git"
+    }
+}
